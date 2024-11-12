@@ -34,10 +34,13 @@ ii) 1: Push cart to the right
 * Document and optimize the code for readability and efficiency, adding comments and refining variable names where necessary.
 
 ## MONTE CARLO CONTROL FUNCTION
-```
-NAME: Sriram G
-REGISTER NUMBER:212222230149
-```
+
+Name: Sriram G
+
+
+Register Number:212222230149
+
+
 ```
 def mc_control (env,n_bins=g_bins, gamma = 1.0,
                 init_alpha = 0.5,min_alpha = 0.01, alpha_decay_ratio = 0.5,
