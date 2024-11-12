@@ -106,11 +106,15 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 
 ## OUTPUT:
 ###   1. Specify the average number of steps achieved within two minutes when the Monte Carlo (MC) control algorithm is initiated with zero-initialized Q-values..
-![image](https://github.com/user-attachments/assets/7c28968d-9b03-45dc-8ecf-d2458cc9e0a3)
+![image](https://github.com/user-attachments/assets/bddb1fd3-7878-4170-95ce-27298cf388b9)
+![image](https://github.com/user-attachments/assets/c2ba6ede-d9e6-42fb-b87b-68b920a7dbcb)
+
 
 
 ### 2. Mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
-![Screenshot 2024-04-23 151709](https://github.com/Dhanudhanaraj/rl-cartpole/assets/119218812/87911583-047e-4ea7-941f-9dd8f13442d4)
+![image](https://github.com/user-attachments/assets/838df689-2e6b-40b0-83e3-041da0cbaac7)
+![image](https://github.com/user-attachments/assets/c215f97f-ebfe-42a9-9cdd-6908c6bdcfd2)
+
 
 ### 3. In your submission text, mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
 ![Screenshot 2024-04-23 151724](https://github.com/Dhanudhanaraj/rl-cartpole/assets/119218812/80db4cf4-15c7-4c7a-a49c-f6ca3d07cc87)
