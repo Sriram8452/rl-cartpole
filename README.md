@@ -119,7 +119,7 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 ### 3. In your submission text, mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
 ![Screenshot 2024-04-23 151724](https://github.com/Dhanudhanaraj/rl-cartpole/assets/119218812/80db4cf4-15c7-4c7a-a49c-f6ca3d07cc87)
 
-![Screenshot 2024-04-23 151736](https://github.com/Dhanudhanaraj/rl-cartpole/assets/119218812/677e5d7b-6098-48a2-b876-4358f41159c7)
+![image](https://github.com/user-attachments/assets/fa090677-5fb2-4a32-a32c-ed9b1900dbd0)
 
 ## RESULT:
 Thus, a Python program is developed to find the optimal policy for the given cart-pole environment using the Monte Carlo algorithm.
